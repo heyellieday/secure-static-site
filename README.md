@@ -1,4 +1,11 @@
+# Secure Static Site Boilerplate
+
+This repo is boilerplate for deploying a static (react) app to AWS S3. Checkout the slides at https://tinyurl.com/secure-static-sites to learn how to set up the DNS and CDN parts.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+NOTE: This readme is incomplete 😅
 
 ## Available Scripts
 
